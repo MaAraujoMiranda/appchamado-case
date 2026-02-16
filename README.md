@@ -21,6 +21,12 @@ Sistema completo de gestão de chamados com **painel web** e **app do técnico**
 - Relatórios: PDF
 
 ## Screenshots
+![Login](screenshots/Tela_login_web.png)
 ![Dashboard](screenshots/Tela_inicial_web.jpg)
 ![Chamado](screenshots/Tela_detalhes_web.jpg)
+![App](screenshots/Tela_login_app.jpg)
 ![App](screenshots/Tela_inicial_app.jpg)
+![App](screenshots/Tela_detalhes_app.jpg)
+![App](screenshots/Tela_chamado_em_tempoReal.mp4)
+![App](screenshots/Tela_pdf_chamado_fechado.jpg)
+![App](screenshots/Tela_pdf_visita_tecnica.jpg)
